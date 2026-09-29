@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-archivable` will be documented in this file
 
+## v1.13.0 - 2026-05-23
+
+**Full Changelog**: https://github.com/infernalmedia/laravel-archivable/commits/v1.13.0
+
 ## v1.12.0 - 2025-02-27
 
 ### What's Changed
